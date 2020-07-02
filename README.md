@@ -1,1 +1,1 @@
-# 16-bit-microprocessor-with-single-accumulator
+# 16-Bit-Microprocessor-With-Single-Accumulator
