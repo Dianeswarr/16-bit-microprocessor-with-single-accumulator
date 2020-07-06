@@ -9,3 +9,6 @@ A basic microprocessor will have program counter register (PC), instruction regi
 MDR and we build an Memory interface(MIF), which is a input- output port, makes connection
 with the external Ram memory and hexdecimal display to display output. The length of data
 is 16-bit, length of instruction is 16-bit, instruction consists of 8-bit operand and 8-bit address.
+
+
+###Source code in side PDF
